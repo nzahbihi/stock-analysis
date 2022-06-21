@@ -8,7 +8,7 @@ The basis of this project was to refactor code originally utilized to perform an
 
 ## Results
 
-One of the main objectives of this project was the analysis on twelve stocks from 2017 to 2018. Within the twelve stocks, we peered into the data to determine which stocks made profit, or a loss. These are indicative of positive percentages of return, and negative percentages of return, respectively.
+One of the main objectives of this project was the analysis on twelve stocks from 2017 to 2018. Within the twelve stocks, we peered into the data to determine which stocks made profit, or a loss. These are indicative of positive returns, and negative returns, respectively.
 
 ![Stocks_For_2017](https://user-images.githubusercontent.com/106129195/174530886-640ad5dd-9c36-459b-a753-25b9b7657f6c.png)  ![Stocks_For_2018](https://user-images.githubusercontent.com/106129195/174531054-e02d75e0-c203-4def-8ba6-f8f55881615e.png)
 
